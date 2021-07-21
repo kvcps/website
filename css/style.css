@@ -1,0 +1,69 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    margin-left: 20%;
+}
+.nav-link {
+    font-size: 25px;
+    color: #5c5c5c;
+}
+.nav-link:hover {
+    color: #2c3e50;
+}
+.active {
+    border-bottom: 2px solid;
+}
+.active2 {
+	margin-left: -400%;
+	border-bottom: 2px solid;
+}
+.active3 {
+	margin-left: 1100%;
+}
+
+.titre{
+    margin-top: 17%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+.titre h1 {
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    color: #594559;
+    font-size: 100px;
+    /* color: #ecf0f1; */
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.titre h2 {
+    margin-top: 0;
+    padding-top: 0;
+   color: #ffffff;
+}
+.container-fluid {
+    background-color: #2e2e2e;
+
+}
+
+.row {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.col-4  {
+    margin-left: 3%;
+}
+#patchnote {
+	font-family: 'Dosis', sans-serif;
+    margin-top: 1%;
+    margin-left: 25%;
+	color: #ffffff;
+}
+
+}
+}
+#patchnote button {
+    margin-left: 2%;
+}
